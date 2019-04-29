@@ -33,7 +33,8 @@ Students by the end of the course will be able to ...
 ## Product Requirements
 
 1. **You will work solo on your project - not with a partner.** This allows you to gain full stack experience instead of just using skills you are comfortable with. You’ll work on a team project again for Term 3 SPD and the Spring Intensive. 
-1. **Your product should be a new product, not an extension of an old SPD or contractor project.** This new project will help you broaden your portfolio, demonstrating your variety of skills. Term 3 SPD and Spring Intensive will be a group project. Term 4 SPD is entirely focused on refactoring old projects, so you’ll have many opportunities to polish your work. Continue to work on your Term 2 project over break! Message Dan with any concerns.
+1. **Juniors: Your product should be a new product, not an extension of an old SPD or contractor project.** This new project will help you broaden your portfolio, demonstrating your variety of skills. Term 3 SPD and Spring Intensive will be a group project. Term 4 SPD is entirely focused on refactoring old projects, so you’ll have many opportunities to polish your work. Continue to work on your Term 2 project over break! Message Dan with any concerns.
+1. **Seniors: You can work on an old or new project** Seniors must fill out the [Winter Intensive Alternative deliverable proposal](https://docs.google.com/document/d/1S2mS9DT3pP2THISe-HoNj6GAtHC-bpW9NdK0tTAEoj0/edit#heading=h.rwkd8l4c90sq) in order to work on an old project.
 1. See daily work deliverables for the intensive on the Schedule below
 
 ## Support
@@ -98,11 +99,12 @@ To pass this course you must meet the following requirements:
 - Attend all class sessions
 - Submit daily deliverables in the [Intensive Tracker](https://docs.google.com/spreadsheets/d/1iUDJZcJRtlYQEuV5KxInafn5B0R69hbxv9PLeEhRDlA/edit#gid=0). 
 - **Final Submission:** submit final pitches via this [form](https://docs.google.com/forms/d/e/1FAIpQLSfuUibo3pzPAF8I4Y_JU8stcgaMQNJ6dPuRSOhUlueq-mKoHw/viewform?usp=sf_link) on **Friday Jan 11th before 3pm**
-- **Pitch slides & presentation (due Fri Jan 11th @ 3:00pm)** - passes if scores an average of 2.5 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit). Should include 3 min and ~four slides: Problem, Current Solutions, My Solution, Call-To-Action. Product Pitches will occur on Friday Jan 11th from 3:00-5:00 pm in small groups. Each student will present their product. ([Class slides](https://docs.google.com/presentation/d/1pwUefBG8C-WjebEYp0bzLc3OPYgFu5ZNivCAl_FPutE/edit#slide=id.g4d412370b7_0_63))
+- **Pitch slides & presentation (due Fri Jan 11th @ 3:00pm)** - passes if scores an average of 2.5 for Juniors and 3.0 for Seniors on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit). Should include 3 min and ~four slides: Problem, Current Solutions, My Solution, Call-To-Action. Product Pitches will occur on Friday Jan 11th from 3:00-5:00 pm in small groups. Each student will present their product. ([Class slides](https://docs.google.com/presentation/d/1pwUefBG8C-WjebEYp0bzLc3OPYgFu5ZNivCAl_FPutE/edit#slide=id.g4d412370b7_0_63))
 - **Final Product (due Mon Jan 14th @ 11:59pm)** passes if it meets all of the following 
-    - Score an average of above a 2.5 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric) 
-    - Complete all the requirements of Version 2 (see requirements below and in the progress tracker) and demonstrates a thorough attempt to complete the requirements of Version 3.
-    - Has at least 10 meaningful commits that begin after December 14th. This means you must have started the project after term 2.
+    - Juniors: Score an average of above a 2.5 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric) 
+    - Juniors: Complete all the requirements of Version 2 (see requirements below and in the progress tracker) and demonstrates a thorough attempt to complete the requirements of Version 3.
+    - Seniors: Score an average of 3.0 on the Portfolio Project Rubric OR complete at least two of three objectives in the [Winter Intensive Alternative deliverable proposal](https://docs.google.com/document/d/1S2mS9DT3pP2THISe-HoNj6GAtHC-bpW9NdK0tTAEoj0/edit#heading=h.rwkd8l4c90sq).
+    - All: Has at least 10 meaningful commits that begin after December 14th. This means you must have started the project after term 2.
 - **Pass:** Students must pass both Pitches and Final Product in order to pass the intensive
 
 ## Attendance
