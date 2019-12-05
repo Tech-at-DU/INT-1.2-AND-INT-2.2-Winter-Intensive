@@ -33,9 +33,9 @@ Students by the end of the course will be able to ...
 
 ## Product Requirements
 
-1. **You will work solo on your project - not with a partner.** This allows you to gain full stack experience instead of just using skills you are comfortable with. You’ll work on a team project again for Term 3 SPD and the Spring Intensive. 
-1. **Juniors: Your product should be a new product, not an extension of an old SPD or contractor project.** This new project will help you broaden your portfolio, demonstrating your variety of skills. Term 3 SPD and Spring Intensive will be a group project. Term 4 SPD is entirely focused on refactoring old projects, so you’ll have many opportunities to polish your work. Continue to work on your Term 2 project over break! Message Dan with any concerns.
-1. **Seniors: You can work on an old or new project** Seniors must fill out the [Winter Intensive Alternative deliverable proposal](https://docs.google.com/document/d/1S2mS9DT3pP2THISe-HoNj6GAtHC-bpW9NdK0tTAEoj0/edit#heading=h.rwkd8l4c90sq) in order to work on an old project.
+1. **Juniors: You will work solo on your project - not with a partner.** This allows you to gain full stack experience instead of just using skills you are comfortable with. You’ll work on a team project again for Term 3 SPD and the Spring Intensive. 
+1. **Juniors: Your product can be a new project or an extension of an SPD 1.2 project.** This new project will help you broaden your portfolio, demonstrating your variety of skills. Term 3 SPD and Spring Intensive will be a group project.
+1. **Seniors: You can work on an old or new project** Seniors must fill out the [Senior Intensive Proposal Document](make.sc/senior-int-proposal) to scope their project.
 1. See daily work deliverables for the intensive on the Schedule below
 
 ## Support
@@ -50,7 +50,6 @@ Office Hours with TAs, Instructors, Industry Contacts - see calendar for times &
 
 **Class Times:**
 Attendance is required from 9:30 to 5:30 every day including the following sessions:
-- Daily Huddles
 - Intensive Classes
 - Daily Structured Lab Time
 
@@ -99,24 +98,17 @@ To pass this course you must meet the following requirements:
 
 - Attend all class sessions
 - Submit daily deliverables in the [Intensive Tracker](https://docs.google.com/spreadsheets/d/1iUDJZcJRtlYQEuV5KxInafn5B0R69hbxv9PLeEhRDlA/edit#gid=0). 
-- **Final Submission:** submit final pitches via this [form](https://docs.google.com/forms/d/e/1FAIpQLSfuUibo3pzPAF8I4Y_JU8stcgaMQNJ6dPuRSOhUlueq-mKoHw/viewform?usp=sf_link) on **Friday Jan 11th before 3pm**
-- **Pitch slides & presentation (due Fri Jan 11th @ 3:00pm)** - passes if scores an average of 2.5 for Juniors and 3.0 for Seniors on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit). Should include 3 min and ~four slides: Problem, Current Solutions, My Solution, Call-To-Action. Product Pitches will occur on Friday Jan 11th from 3:00-5:00 pm in small groups. Each student will present their product. ([Class slides](https://docs.google.com/presentation/d/1pwUefBG8C-WjebEYp0bzLc3OPYgFu5ZNivCAl_FPutE/edit#slide=id.g4d412370b7_0_63))
-- **Final Product (due Mon Jan 14th @ 11:59pm)** passes if it meets all of the following 
-    - Juniors: Score an average of above a 2.5 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric) 
-    - Juniors: Complete all the requirements of Version 2 (see requirements below and in the progress tracker) and demonstrates a thorough attempt to complete the requirements of Version 3.
-    - Seniors: Score an average of 3.0 on the Portfolio Project Rubric OR complete at least two of three objectives in the [Winter Intensive Alternative deliverable proposal](https://docs.google.com/document/d/1S2mS9DT3pP2THISe-HoNj6GAtHC-bpW9NdK0tTAEoj0/edit#heading=h.rwkd8l4c90sq).
-    - All: Has at least 10 meaningful commits that begin after December 14th. This means you must have started the project after term 2.
+- **Final Submission:** submit final pitches via this [form](https://docs.google.com/forms/d/e/1FAIpQLSfuUibo3pzPAF8I4Y_JU8stcgaMQNJ6dPuRSOhUlueq-mKoHw/viewform?usp=sf_link) on **Friday Jan 10th before 2pm**
+- **Pitch slides & presentation (due Fri Jan 10th @ 3:00pm)** - passes if scores above a 1 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit). Should include 3 min and ~four slides: Problem, Current Solutions, My Solution, Call-To-Action. Product Pitches will occur on Friday Jan 10th from 2:00-4:00 pm in small groups. Each student will present their product. ([Class slides](https://docs.google.com/presentation/d/1pwUefBG8C-WjebEYp0bzLc3OPYgFu5ZNivCAl_FPutE/edit#slide=id.g4d412370b7_0_63))
+- **Final Product (due Fri Jan 10th @ 2pm)** passes if it meets all of the following 
+    - Juniors: 
+        - Score an average of above a 1.5 on the [Intensive Project Rubric](http://make.sc/portfolio-project-rubric) 
+        - Product is live or on testflight (see [Intensive Project Rubric](http://make.sc/portfolio-project-rubric))
+    - Seniors: achieve 2 of 3 objectives on the [Senior Intensive Proposal](https://docs.google.com/document/d/1S2mS9DT3pP2THISe-HoNj6GAtHC-bpW9NdK0tTAEoj0/edit#heading=h.rwkd8l4c90sq).
 - **Pass:** Students must pass both Pitches and Final Product in order to pass the intensive
 
 ## Attendance
 Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
-
-Attendance requirements for scheduled sessions are:
-- No more than two no call no shows per term in any scheduled session.
-- No more than four excused absences per term in any scheduled session.
-
-Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School.
-
 
 ## Make School Course Policies
 
@@ -128,7 +120,6 @@ Failure to meet these requirements will result in a PIP (Participation Improveme
 <br>
 [Title IX Policy](https://make.sc/title-ix-policy)<br>
 [Program Learning Outcomes](https://make.sc/program-learning-outcomes)
-
 
 
 [Lesson 1]: Lessons/01-User-Stories-And-Sprint-Planning.md
