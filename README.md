@@ -72,9 +72,9 @@ To pass this course you must meet the following requirements:
     - Product Pitches will occur on Friday Jan 10th from 2:00-4:00 pm in small groups. Each student will present their product. ([Class slides](https://docs.google.com/presentation/d/1pwUefBG8C-WjebEYp0bzLc3OPYgFu5ZNivCAl_FPutE/edit#slide=id.g4d412370b7_0_63))
 - **Final Product (due Fri Jan 10th @ 2pm)** passes if it meets all of the following 
     - Juniors: 
-        - Score an average of above a 1.5 on the [Intensive Project Rubric](http://make.sc/portfolio-project-rubric) 
-        - Product is live or on testflight (see [Intensive Project Rubric](http://make.sc/portfolio-project-rubric))
-    - Seniors: achieve 2 of 3 objectives on the [Senior Intensive Proposal](https://docs.google.com/document/d/1S2mS9DT3pP2THISe-HoNj6GAtHC-bpW9NdK0tTAEoj0/edit#heading=h.rwkd8l4c90sq).
+        - Score an average of above a 1.5 on the [Intensive Project Rubric](https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit) 
+        - Product is live or on testflight (see [Intensive Project Rubric](https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit)
+    - Seniors: achieve 2 of 3 objectives on the [Senior Intensive Proposal](https://docs.google.com/document/d/1pZh24HKYJlB7uuVZB1C8KNeBNC2VdzD8X87PVHwXpqU/edit).
 - **Pass:** Students must pass both Pitches and Final Product in order to pass the intensive
 
 ## Make School Course Policies
