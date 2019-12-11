@@ -22,8 +22,8 @@ Students by the end of the course will be able to ...
 
 ## Product Requirements
 
-1. **Juniors: You will work solo on your project - not with a partner.** This allows you to gain full stack experience instead of just using skills you are comfortable with. You’ll work on a team project again for Term 3 SPD and the Spring Intensive. 
-1. **Juniors: Your product can be a new project or an extension of an SPD 1.2 project.** This new project will help you broaden your portfolio, demonstrating your variety of skills. Term 3 SPD and Spring Intensive will be a group project.
+1. **Juniors: You will work solo on your project - not with a partner.** This allows you to gain full stack experience instead of just using skills you are comfortable with. You’ll work on a team project again for Term 3 SPD and the Spring Intensive. You must fill out the [Junior Intensive Proposal Document](make.sc/junior-int-proposal). You can reference [this example](junior-int-proposal-example) to see how to fill out the document 
+1. **Juniors: Your product can be a new project or an extension of an SPD 1.2 project.** This new project will help you broaden your portfolio, demonstrating your variety of skills. Term 3 SPD and Spring Intensive will be a group project. You must fill out the [Junior Intensive Proposal Document](make.sc/junior-int-proposal). You can reference [this example](junior-int-proposal-example) to see how to fill out the document 
 1. **Seniors: You can work on an old or new project** Seniors must fill out the [Senior Intensive Proposal Document](make.sc/senior-int-proposal) to scope their project.
 1. See daily work deliverables for the intensive on the Schedule below
 
@@ -44,22 +44,22 @@ Attendance is required from 9:30 to 5:30 every day including the following sessi
 
 **[List of Winter Intensive Deliverables](https://docs.google.com/spreadsheets/d/1Hb2Aysl4dtjrcBzkttLuZOBwduV6Rh8F9OMyn-o65Jk/edit#gid=0)**
 
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1  | Monday - Build prototype, start CRUD           | Welcome Intro session |
-|     |                  | Brainstorming Session |
-|     |                  | Proposal Approval  |
-|     |                  | Mark completion in intensive tracker |
-|  2 | Tuesday - Deployed MVP (Skateboard)          | Passing data from frontend to backend  |
-|     |                  | Mark completion in intensive tracker |
-|  3 | Wednesday - Deployed second feature or aspect   | Pitches 2.0: Audience Engagement |
-|     |                  | Mark completion in intensive tracker |
-|  4 | Thursday - Deployed second feature or aspect + Presentation Drafts     | Quality READMEs |
-|    |                   | Draft Product Pitch |
-|    |                   | Post slide link in Intensive Tracker |
-|    |                   | Mark completion in intensive tracker |
-|  5 | Friday - Pitches + Celebration       | Pitch product @ 2:00 - 4:00pm. |
-|    |                                      | Celebration @ 4:00pm - 6:00 pm |
+|          Date          |                 Topics                  |
+|:----------------------:|:---------------------------------------:|
+| Monday           | Welcome Intro session |
+|                  | Brainstorming Session |
+|                  | Proposal Approval  |
+|                  | Mark completion in intensive tracker |
+| Tuesday          | Passing data from frontend to backend  |
+|                  | Mark completion in intensive tracker |
+| Wednesday        | Pitches 2.0: Audience Engagement |
+|                  | Mark completion in intensive tracker |
+| Thursday         | Quality READMEs |
+|                   | Draft Product Pitch |
+|                   | Post slide link in Intensive Tracker |
+|                   | Mark completion in intensive tracker |
+| Friday - Pitches + Celebration       | Pitch product @ 2:00 - 4:00pm. |
+|                                      | Celebration @ 4:00pm - 6:00 pm |
 
 ## Evaluation
 To pass this course you must meet the following requirements:
