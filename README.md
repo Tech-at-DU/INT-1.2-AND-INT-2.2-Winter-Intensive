@@ -58,8 +58,7 @@ Attendance is required from 9:30 to 5:30 every day including the following sessi
 |                   | Draft Product Pitch |
 |                   | Post slide link in Intensive Tracker |
 |                   | Mark completion in intensive tracker |
-| Friday - Pitches + Celebration       | Pitch product @ 2:00 - 4:00pm. |
-|                                      | Celebration @ 4:00pm - 6:00 pm |
+| Friday - Pitches + Celebration       | Pitch product @ 2:00 - 4:00pm |
 
 ## Evaluation
 To pass this course you must meet the following requirements:
