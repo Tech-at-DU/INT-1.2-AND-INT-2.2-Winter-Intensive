@@ -22,9 +22,9 @@ Students by the end of the course will be able to ...
 
 ## Product Requirements
 
-1. **Juniors: You will work solo on your project - not with a partner.** This allows you to gain full stack experience instead of just using skills you are comfortable with. You’ll work on a team project again for Term 3 SPD and the Spring Intensive. You must fill out the [Junior Intensive Proposal Document](make.sc/junior-int-proposal). You can reference [this example](junior-int-proposal-example) to see how to fill out the document 
-1. **Juniors: Your product can be a new project or an extension of an SPD 1.2 project.** This new project will help you broaden your portfolio, demonstrating your variety of skills. Term 3 SPD and Spring Intensive will be a group project. You must fill out the [Junior Intensive Proposal Document](make.sc/junior-int-proposal). You can reference [this example](junior-int-proposal-example) to see how to fill out the document 
-1. **Seniors: You can work on an old or new project** Seniors must fill out the [Senior Intensive Proposal Document](make.sc/senior-int-proposal) to scope their project.
+1. **Juniors: You will work solo on your project - not with a partner.** This allows you to gain full stack experience instead of just using skills you are comfortable with. You’ll work on a team project again for Term 3 SPD and the Spring Intensive. You must fill out the [Junior Intensive Proposal Document](https://make.sc/junior-int-proposal). You can reference [this example](https://make.sc/junior-int-proposal-example) to see how to fill out the document 
+1. **Juniors: Your product can be a new project or an extension of an SPD 1.2 project.** This new project will help you broaden your portfolio, demonstrating your variety of skills. Term 3 SPD and Spring Intensive will be a group project. You must fill out the [Junior Intensive Proposal Document](https://make.sc/junior-int-proposal). You can reference [this example](https://make.sc/junior-int-proposal-example) to see how to fill out the document 
+1. **Seniors: You can work on an old or new project** Seniors must fill out the [Senior Intensive Proposal Document](https://make.sc/senior-int-proposal) to scope their project.
 1. See daily work deliverables for the intensive on the Schedule below
 
 ## Support
