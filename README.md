@@ -45,7 +45,7 @@ Attendance is required from 9:30 to 5:30 every day including the following sessi
 
 |          Date          |                 Topics                  |
 |:----------------------:|:---------------------------------------:|
-| Monday           | Welcome Intro session |
+| Monday           | [Welcome Intro session](https://docs.google.com/presentation/d/1gSaa8Hx7qjINCvQoRb6ISF92tMLtydb1sa8emSCcHIE/edit#slide=id.g764242cbcd_0_32) |
 |                  | Brainstorming Session |
 |                  | Proposal Approval  |
 |                  | Mark completion in intensive tracker |
