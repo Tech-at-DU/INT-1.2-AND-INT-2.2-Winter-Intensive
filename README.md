@@ -49,7 +49,7 @@ Attendance is required from 9:30 to 5:30 every day including the following sessi
 |                  | Brainstorming Session |
 |                  | Proposal Approval  |
 |                  | Mark completion in intensive tracker |
-| Tuesday          | Passing data from frontend to backend  |
+| Tuesday          | [Passing data from frontend to backend](https://docs.google.com/presentation/d/1G-Utug-zMySUgSMj0Q6drARwBk3gMY5WMrYFE-jiHrM)  |
 |                  | Mark completion in intensive tracker |
 | Wednesday        | [Pitches 2.0: Audience Engagement](https://docs.google.com/presentation/d/1pwUefBG8C-WjebEYp0bzLc3OPYgFu5ZNivCAl_FPutE/edit#slide=id.g4d412370b7_0_91) |
 |                  | Mark completion in intensive tracker |
