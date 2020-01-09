@@ -53,7 +53,7 @@ Attendance is required from 9:30 to 5:30 every day including the following sessi
 |                  | Mark completion in intensive tracker |
 | Wednesday        | [Pitches 2.0: Audience Engagement](https://docs.google.com/presentation/d/1pwUefBG8C-WjebEYp0bzLc3OPYgFu5ZNivCAl_FPutE/edit#slide=id.g4d412370b7_0_91) |
 |                  | Mark completion in intensive tracker |
-| Thursday         | Quality READMEs |
+| Thursday         | [Quality READMEs](https://docs.google.com/presentation/d/1BorhogIQLqbwvx1lg3vZ4dIWFOh5rgjQ5vheqpoeHXc/edit#slide=id.g6d351f4630_0_63) |
 |                   | Draft Product Pitch |
 |                   | Post slide link in Intensive Tracker |
 |                   | Mark completion in intensive tracker |
