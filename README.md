@@ -2,7 +2,7 @@
 
 ## Course Description
 
-You’ll work by yourself to design, code, and ship your own new app or website. This product (app or website) will be part of your project “portfolio” that employers will eventually look at when hiring. On **Friday, we’ll pitch** our product to classmates.
+You’ll work by yourself (or in a group) to design, code, and ship your own new app or website. This product (app or website) will be part of your project “portfolio” that employers will eventually look at when hiring. On **the last day of intensive, you’ll pitch** your product to classmates.
 
 **INT 1.2** is for Juniors while **INT 2.2** is for Seniors.  Students will work on similar skills with different evaluation criteria and expectations.
 
@@ -14,7 +14,7 @@ You’ll work by yourself to design, code, and ship your own new app or website.
 
 Students by the end of the course will be able to ...
 
-1. Build from scratch an app or product in your language concentration
+1. Build from scratch an app or product of your choice given that it's approved by the instructors.
 1. Explain the value of your product via a product pitch
 1. Provide and receive constructive feedback on your app idea, designs, and code
 1. Create high quality README.md’s
@@ -22,24 +22,22 @@ Students by the end of the course will be able to ...
 
 ## Product Requirements
 
-1. **Juniors: You will work solo on your project - not with a partner.** This allows you to gain full stack experience instead of just using skills you are comfortable with. You’ll work on a team project again for Term 3 SPD and the Spring Intensive. You must fill out the [Junior Intensive Proposal Document](https://make.sc/junior-int-proposal). You can reference [this example](https://make.sc/junior-int-proposal-example) to see how to fill out the document. **You can continue to work on a project from SPD 1.2 or fall intensive but must significantly extend it as noted in the proposal.**
+1. **Juniors: You will work solo (or in a group of two) on your project.** This allows you to gain full stack experience instead of just using skills you are comfortable with. You must fill out the [Junior Intensive Proposal Document](https://make.sc/junior-int-proposal). You can reference [this example](https://make.sc/junior-int-proposal-example) to see how to fill out the document. **You can continue to work on a project from SPD 1.2 or fall intensive but must significantly extend it as noted in the proposal.**
 1. **Seniors: You can work on an old or new project** Seniors must fill out the [Senior Intensive Proposal Document](https://make.sc/senior-int-proposal) to scope their project.
 1. See daily work deliverables for the intensive on the Schedule below
 
 ## Support
 
-Office Hours with TAs, Instructors, Industry Contacts - see calendar for times & locations
+Office Hours with TAs, Instructors and peers  - see calendar for times & locations
 
 ## Schedule
 
 **Note:** View the college calendar for the most up to date changes.
 
-**Course Dates:** Monday, January 6 – Friday, January 10 (5 days)
+**Course Dates:** Wednesday, January 6 – Tuesday, January 12 (7 days)
 
 **Class Times:**
-Attendance is required from 9:30 to 5:30 every day including the following sessions:
-- Intensive Classes
-- Daily Structured Lab Time
+Attendance is required from 9:30 to 5:30 every day.
 
 **[List of Winter Intensive Deliverables](https://docs.google.com/spreadsheets/d/1Hb2Aysl4dtjrcBzkttLuZOBwduV6Rh8F9OMyn-o65Jk/edit#gid=0)**
 
