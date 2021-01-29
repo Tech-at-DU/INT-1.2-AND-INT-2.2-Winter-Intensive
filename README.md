@@ -1,10 +1,10 @@
-# INT-1.2-AND-INT-2.2-Winter-Intensive
+# INT-1.2-AND-INT-2.2-Spring-Intensive
 
 ## Course Description
 
-You’ll work by yourself (or in a group) to design, code, and ship your own new app or website. This product (app or website) will be part of your project “portfolio” that employers will eventually look at when hiring. On **the last day of intensive**, you’ll pitch your product to classmates.
+You’ll work by yourself (or in a group) to design, code, and ship your own new app, website or data analysis report. This product (app or website) will be part of your project “portfolio” that employers will eventually look at when hiring. On **the last day of intensive**, you’ll pitch your product to classmates.
 
-**INT 1.2** is for Juniors while **INT 2.2** is for Seniors.  Students will work on similar skills with different evaluation criteria and expectations.
+**INT 1.3** is for Juniors while **INT 2.3** is for Seniors.  Students will work on similar skills with different evaluation criteria and expectations.
 
 ## Prerequisites:  
 
@@ -22,8 +22,8 @@ Students by the end of the course will be able to ...
 
 ## Product Requirements
 
-1. **Juniors: You will work solo (or in a group of two) on your project.** This allows you to gain full stack experience instead of just using skills you are comfortable with. Please go to Gradescope course **INT 1.2**  for details.
-1. **Seniors: You can work on an old or new project** Please go to Gradescope Course **INT 2.2** for details.
+1. **Juniors: You will work solo (or in a group of two) on your project.** This allows you to gain full stack experience instead of just using skills you are comfortable with. Please go to Gradescope course **INT 1.3**  for details.
+1. **Seniors: You can work on an old or new project** Please go to Gradescope Course **INT 2.3** for details.
 1. See the intensive schedule on **College Courses** calender on your Make School Google Calendar.
 ## Support
 
@@ -33,7 +33,7 @@ Office Hours with TAs, Instructors and peers  - see calendar for times & locatio
 
 **Note:** View the college calendar for the most up to date changes.
 
-**Course Dates:** Wednesday, January 6 – Tuesday, January 12 (7 days)
+**Course Dates:** Monday, March 15 – Friday, March 26 (12 days)
 
 **Class Times:**
 Attendance is required from 9:30 to 5:30 every day.
@@ -44,10 +44,10 @@ To pass this course you must meet the following requirements:
 - Attend all class sessions
 - Submit intensive assignments on gradescope on time.
 - **Final Submission:** submit final pitches via Gradescope.
-- **Pitch slides & presentation (due Fri Jan 12th @ 3:00pm)** - passes if scores above a 1 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit).
+- **Pitch slides & presentation (due Fri March 26th @ 3:00pm)** - passes if scores above a 1 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit).
     - Should be 3 min in length and include the following four slides at a minimum: Problem, Current Solutions, My Solution, Call-To-Action.
     - Product Pitches will occur on last day of intensive event. Each student/group will present their product. ([Class slides](https://docs.google.com/presentation/d/1pwUefBG8C-WjebEYp0bzLc3OPYgFu5ZNivCAl_FPutE/edit#slide=id.g4d412370b7_0_63))
-- **Final Product (due Fri Jan 12th @ 2pm)** passes if it meets all of the following 
+- **Final Product (due Fri March 26th @ 2pm)** passes if it meets all of the following 
     - Juniors: 
         - Score an average of above a 1.5 on the [Intensive Project Rubric](https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit) 
     - Seniors: achieve 2 of 3 objectives on the [Senior Intensive Proposal](on Gradescope).
