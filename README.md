@@ -4,7 +4,7 @@
 
 You’ll work by yourself (or in a pair) to design, code, and ship your own new app, website or data analysis report. This product (app or website) will be part of your project portfolio that employers will eventually look at when hiring. On **the last day of intensive**, you’ll pitch your product to classmates.
 
-**INT 1.2** is for Juniors while **INT 1.2** is for Seniors.  Students will work on similar skills with different evaluation criteria and expectations.
+**INT 1.2** is for Juniors while **INT 2.2** is for Seniors.  Students will work on similar skills with different evaluation criteria and expectations.
 
 ## Prerequisites:  
 
