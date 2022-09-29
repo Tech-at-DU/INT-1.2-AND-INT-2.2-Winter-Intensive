@@ -34,7 +34,7 @@ Office Hours with TAs, Instructors and peers  - see calendar for times & locatio
 
 **Note:** View the [ACS Courses Google Calendar](https://calendar.google.com/calendar/embed?src=c_9o41dgcbq45sqm1utp2qsv6l6g%40group.calendar.google.com&ctz=America%2FLos_Angeles) for the most up to date changes.
 
-**Course Dates:** Monday, March 14th through Friday, January 19th (5 days)
+**Course Dates:** Tuesday, October 11th through Monday, October 17th
 
 **Class Times:** Attendance is required from 9:30am to 5:30pm every day.
 
@@ -54,6 +54,15 @@ Office Hours with TAs, Instructors and peers  - see calendar for times & locatio
         - Score an average of above a 1.5 on the [Intensive Project Rubric](https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit) 
     - Seniors: achieve 2 of 3 objectives on the [Senior Intensive Proposal](on Gradescope).
 - **Pass:** Students must pass both Pitches and Final Product in order to pass the intensive
+
+| Date | Topic | 
+|:-----|:------|:----|
+| Tue Oct. 11 | Proposal | Standup 9:30 AM |
+| Wed Oct. 12 | Proposal | Standup 9:30 AM |
+| Thr Oct. 13 | Proposal | Standup 9:30 AM |
+| Fri Oct. 14 | Proposal | Standup 9:30 AM |
+| Mon Oct. 12 | Presentation | - |
+
 
 [Lesson 1]: Lessons/01-User-Stories-And-Sprint-Planning.md
 [Lesson 2]: Lessons/02-Wireframe-Feedback.md
