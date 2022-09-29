@@ -46,10 +46,10 @@ Office Hours with TAs, Instructors and peers  - see calendar for times & locatio
 - Participate in the end-of-week Code Review with an instructor.
 - Submit intensive assignments on gradescope on time.
 - **Final Submission:** submit final pitches via Gradescope.
-- **Pitch slides & presentation (due Friday, March 19th @ 3:00pm)** - passes if scores above a 1 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit).
+- **Pitch slides & presentation (due Tuesday, October 12th @ 3:00pm)** - passes if scores above a 1 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit).
     - Should be 3 minutes in length and include the following four slides at a minimum: _Problem, Current Solutions, My Solution, Call-To-Action_.
     - Product Pitches will occur on last day of intensive event. Each student/group will present their product. ([Class slides](https://docs.google.com/presentation/d/1pwUefBG8C-WjebEYp0bzLc3OPYgFu5ZNivCAl_FPutE/edit#slide=id.g4d412370b7_0_63))
-- **Final Product (due Friday, March 19th @ 2pm)** passes if it meets all of the following 
+- **Final Product (due Monday, October 17th @ 2pm)** passes if it meets all of the following 
     - Juniors: 
         - Score an average of above a 1.5 on the [Intensive Project Rubric](https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit) 
     - Seniors: achieve 2 of 3 objectives on the [Senior Intensive Proposal](on Gradescope).
