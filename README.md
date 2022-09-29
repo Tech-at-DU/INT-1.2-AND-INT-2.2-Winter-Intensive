@@ -55,8 +55,8 @@ Office Hours with TAs, Instructors and peers  - see calendar for times & locatio
     - Seniors: achieve 2 of 3 objectives on the [Senior Intensive Proposal](on Gradescope).
 - **Pass:** Students must pass both Pitches and Final Product in order to pass the intensive
 
-| Date | Topic | 
-|:-----|:------|:----|
+| Date | Topic | - |
+| ---- | ----- | ---- |
 | Tue Oct. 11 | Proposal | Standup 9:30 AM |
 | Wed Oct. 12 | Proposal | Standup 9:30 AM |
 | Thr Oct. 13 | Proposal | Standup 9:30 AM |
