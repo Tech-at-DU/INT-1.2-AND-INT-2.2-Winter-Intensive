@@ -1,4 +1,4 @@
-# INT-1.2-AND-INT-2.2-Spring-Intensive
+# INT-1.2-AND-INT-2.2-Winter-Intensive
 
 ## Course Description
 
@@ -23,8 +23,8 @@ _No prerequisites required_.
 
 ## Product Requirements
 
-1. **Juniors: You will work solo (or in a group of two) on your project.** This allows you to gain full stack experience instead of just using skills you are comfortable with. Please go to Gradescope course **INT 1.2**  for details.
-1. **Seniors: You can work on an old or new project** Please go to Gradescope Course **INT 2.2** for details.
+1. **Juniors: You will work solo (or in a group of two) on your project.** This allows you to gain full stack experience instead of just using skills you are comfortable with. Please go to the Proposal [tracker column](https://docs.google.com/spreadsheets/d/1i9E4xJ9qqf_b1-3E-P4iL9FcSX1eUHYRH3Ddy-mGCcA/edit#gid=1694752919) for details  for details.
+1. **Seniors: You can work on an old or new project** Please go to [tracker column](https://docs.google.com/spreadsheets/d/1i9E4xJ9qqf_b1-3E-P4iL9FcSX1eUHYRH3Ddy-mGCcA/edit#gid=1694752919) for details for details.
 1. See the intensive schedule on **College Courses** calender on your DU Google Calendar.
 ## Support
 
@@ -46,22 +46,19 @@ Office Hours with TAs, Instructors and peers  - see calendar for times & locatio
 - Participate in the end-of-week Code Review with an instructor.
 - Submit intensive assignments on gradescope on time.
 - **Final Submission:** submit final pitches via Gradescope.
-- **Pitch slides & presentation (due Tuesday, October 12th @ 3:00pm)** - passes if scores above a 1 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit).
+- **Pitch slides & presentation (due Tuesday, October 12th @ 3:00pm)** - passes if scores above a 1 on the [Presentation Rubric](https://docs.google.com/document/d/1A3dAybsiG-irTAdkHDVyV59KzoK8XDJ_9AL_U94ZsqE/edit).
     - Should be 3 minutes in length and include the following four slides at a minimum: _Problem, Current Solutions, My Solution, Call-To-Action_.
-    - Product Pitches will occur on last day of intensive event. Each student/group will present their product. ([Class slides](https://docs.google.com/presentation/d/1pwUefBG8C-WjebEYp0bzLc3OPYgFu5ZNivCAl_FPutE/edit#slide=id.g4d412370b7_0_63))
-- **Final Product (due Monday, October 17th @ 2pm)** passes if it meets all of the following 
+    - Product Pitches will occur on last day of intensive event. Each student/group will present their product. ([Class slides coming soon])
+- **Final Product (due Monday, Jan 9th @ 3pm)** passes if it meets all of the following 
     - Juniors: 
         - Score an average of above a 1.5 on the [Intensive Project Rubric](https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit) 
     - Seniors: achieve 2 of 3 objectives on the [Senior Intensive Proposal](on Gradescope).
 - **Pass:** Students must pass both Pitches and Final Product in order to pass the intensive
 
-| Date | Topic | - |
-| ---- | ----- | ---- |
-| Tue Oct. 11 | Proposal | Standup 9:30 AM |
-| Wed Oct. 12 | Proposal | Standup 9:30 AM |
-| Thr Oct. 13 | Proposal | Standup 9:30 AM |
-| Fri Oct. 14 | Proposal | Standup 9:30 AM |
-| Mon Oct. 12 | Presentation | - |
+## Schedule
+See college calendar for dates and times of sessions.
+
+Sessions include daily checkins, workshops on new coding concepts you can incorporate into your product, pitch practice, and final pitches.
 
 
 [Lesson 1]: Lessons/01-User-Stories-And-Sprint-Planning.md
